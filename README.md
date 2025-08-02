@@ -5,9 +5,7 @@ Welcome to my personal portfolio! This website showcases my skills, experience, 
 ## 🌐 Live Demo
 
 You can view the live version of this portfolio here:  
-🔗 [View Portfolio Website](https://your-username.github.io/your-repo-name)
-
-> _This will be updated after deployment is complete._
+🔗 [View Portfolio Website](https://plp-portfolio-inky.vercel.app/)
 
 ---
 
@@ -17,14 +15,18 @@ The project is structured as follows:
 
 ```
 📦.
-├── 📁assets
-│   ├── 📄me_suit.png
-│   └── 📄Stephen Omusula Resume.pdf
-├── 📁css
-│   └── 📄styles.css
-├── 📁html
-│   └── 📄index.html
-├── 📄README.md
+├── 📁public
+│   ├── 📁assets
+│   │   └── 📄 Stephen Omusula Resume.pdf
+│   │   └── 🖼️ me_suit.png
+│   ├── 📁styles
+│   │   └── 🎨styles.css
+│   └── 📝index.html
+├── 📁screenshots
+│   ├── 🖼️ home.PNG
+│   ├── 🖼️ portfolio.PNG
+│   └── 🖼️ contact.PNG
+├── 📄 README.md
 ```
 
 ---
