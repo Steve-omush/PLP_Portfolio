@@ -62,11 +62,11 @@ The project is structured as follows:
 
 ## 📷 Screenshots
 
-| Section   | Preview                                                     |
-| --------- | ----------------------------------------------------------- |
-| Home      | _![Homepage screenshot](assets/screenshots/home.PNG)_       |
-| Portfolio | _![Portfolio screenshot](assets/screenshots/portfolio.PNG)_ |
-| Contact   | _![Contact screenshot](assets/screenshots/contact.PNG)_     |
+| Section   | Preview                                              |
+| --------- | ---------------------------------------------------- |
+| Home      | _![Homepage screenshot](screenshots/home.PNG)_       |
+| Portfolio | _![Portfolio screenshot](screenshots/portfolio.PNG)_ |
+| Contact   | _![Contact screenshot](screenshots/contact.PNG)_     |
 
 ---
 
