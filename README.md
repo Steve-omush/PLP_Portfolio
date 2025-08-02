@@ -79,8 +79,6 @@ The project is structured as follows:
 
 ---
 
-## 📬 Contact Me
-
 ## 📫 Contact Me
 
 You can reach out to me at .
